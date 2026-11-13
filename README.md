@@ -1,6 +1,6 @@
 # Frontend Developer Intern
 
-Frontend Developer specializing in React, Next.js and TypeScript, building data-heavy admin dashboards and clean, responsive interfaces.
+Frontend Developer specializing in React and TypeScript, building data-heavy admin dashboards and clean, responsive interfaces. Currently learning Next.js.
 
 <div align="center">
 
@@ -12,7 +12,7 @@ Frontend Developer specializing in React, Next.js and TypeScript, building data-
 
 ## About Me
 
-I focus on frontend development with React, Next.js and TypeScript, and I also work with Node.js, Express and MongoDB to build full-stack applications. I have hands-on experience with JWT authentication, REST API integration, and building data-heavy admin interfaces. I'm looking for a Frontend Developer Intern position where I can keep growing and ship real products.
+I focus on frontend development with React and TypeScript, and I also work with Node.js, Express and MongoDB to build full-stack applications. I have hands-on experience with JWT authentication, REST API integration, Docker, and building data-heavy admin interfaces. I'm currently learning Next.js, and I'm looking for a Frontend Developer Intern position where I can keep growing and ship real products.
 
 ---
 
@@ -56,9 +56,10 @@ I focus on frontend development with React, Next.js and TypeScript, and I also w
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [Retail Store Admin Dashboard](https://github.com/ThanhDatis/sales-management-admin.git) | Admin dashboard for managing products, inventory, orders and customers of a retail store. | React, TypeScript, MUI, Zustand, Node.js, MongoDB |
-| [AI Fitness Coach Chatbot](https://github.com/ThanhDatis/AI-Fitness-Coach.git) *(team project)* | Chatbot with adaptive personalization for fitness guidance. | React, AI/LLM |
-| [Graduation Invitation Card](https://github.com/ThanhDatis/REPO_NAME) | Interactive web invitation card for my graduation ceremony. | React, TypeScript, Tailwind CSS |
+| [Sales Management Admin](https://github.com/ThanhDatis/sales-management-admin) | Admin dashboard for managing products, orders, customers and employees, with JWT authentication, role-based access and a KPI overview. | React, TypeScript, Vite, MUI, Zustand, Formik, Yup, Axios, Node.js, Express, MongoDB |
+| [CarbonTC Admin Service](https://github.com/ThanhDatis/XDPMHDT_CarbonTC) *(team project)* | Built the Admin Service (Node.js API + admin UI) of a microservice carbon credit trading platform: users, reports, audit log of admin actions, system configuration. | React, TypeScript, MUI, Zustand, Node.js, Express, MongoDB, Docker |
+| [AI Fitness Coach](https://github.com/ThanhDatis/AI-Fitness-Coach) *(team project)* | AI fitness coaching platform. I built the Node.js service (workout plans, logs, streak, reschedule, analytics, TDEE) and the 4-step onboarding UI. | React, TypeScript, Tailwind CSS, shadcn/ui, Node.js, Express, MongoDB, Zod, Docker |
+| [MartFlow](https://github.com/ThanhDatis/Fresh-Root) *(in progress)* | Retail management platform for small grocery and convenience stores, built as microservices. Done: admin UI (login, dashboard, product management), auth service (JWT, role-based access, employee management). In progress: order service. | Next.js, TypeScript, MUI, Zustand, React Hook Form, Zod, Node.js, Express, MongoDB, Docker |
 
 ---
 
