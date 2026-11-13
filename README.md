@@ -2,7 +2,11 @@
 
 Frontend Developer specializing in React, Next.js and TypeScript, building data-heavy admin dashboards and clean, responsive interfaces.
 
-[Facebook](https://facebook.com/dat.nguyencaothanh/) • [Email](mailto:taddenw11@gmail.com) • [LinkedIn](https://www.linkedin.com/in/thành-đạt-1663283a1/) • [GitHub](https://github.com/ThanhDatis)
+<div align="center">
+
+<a href="mailto:taddenw11@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/th%C3%A0nh-%C4%91%E1%BA%A1t-1663283a1/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/ThanhDatis"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://facebook.com/dat.nguyencaothanh/"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
+</div>
 
 ---
 
@@ -52,8 +56,8 @@ I focus on frontend development with React, Next.js and TypeScript, and I also w
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [Retail Store Admin Dashboard](https://github.com/ThanhDatis/REPO_NAME) | Admin dashboard for managing products, inventory, orders and customers of a retail store. | React, TypeScript, MUI, Zustand, Node.js, MongoDB |
-| [AI Fitness Coach Chatbot](https://github.com/ThanhDatis/REPO_NAME) *(team project)* | Chatbot with adaptive personalization for fitness guidance. | React, AI/LLM |
+| [Retail Store Admin Dashboard](https://github.com/ThanhDatis/sales-management-admin.git) | Admin dashboard for managing products, inventory, orders and customers of a retail store. | React, TypeScript, MUI, Zustand, Node.js, MongoDB |
+| [AI Fitness Coach Chatbot](https://github.com/ThanhDatis/AI-Fitness-Coach.git) *(team project)* | Chatbot with adaptive personalization for fitness guidance. | React, AI/LLM |
 | [Graduation Invitation Card](https://github.com/ThanhDatis/REPO_NAME) | Interactive web invitation card for my graduation ceremony. | React, TypeScript, Tailwind CSS |
 
 ---
